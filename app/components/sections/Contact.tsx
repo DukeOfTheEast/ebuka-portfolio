@@ -6,7 +6,7 @@ import { contactLinks } from "@/app/lib/data";
 
 export default function Contact() {
   return (
-    <section id="contact" className="px-12 py-24">
+    <section id="contact" className="sm:px-12 px-6 py-24">
       <SectionHeader num="04" title="Contact" />
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-16 md:gap-24 items-start">

@@ -4,12 +4,12 @@ export default function Footer() {
   const year = new Date().getFullYear();
 
   return (
-    <footer className="px-12 py-6 border-t border-border flex flex-col sm:flex-row items-center justify-between gap-3">
+    <footer className="sm:px-12 px-6 py-6 border-t border-border flex flex-col sm:flex-row items-center justify-between gap-3">
       <p className="text-[11px] text-muted-2">
         © {year} {siteData.name}
       </p>
 
-      <div className="flex items-center gap-6">
+      <div className="flex items-center sm:gap-6 gap-12">
         <a
           href={siteData.github}
           target="_blank"

@@ -4,7 +4,7 @@ import FadeUp from "@/app/components/ui/FadeUp";
 
 export default function Skills() {
   return (
-    <section id="skills" className="px-12 py-24 border-b border-border">
+    <section id="skills" className="sm:px-12 px-6 py-24 border-b border-border">
       <SectionHeader num="03" title="Skills" />
 
       <div className="grid grid-cols-2 md:grid-cols-4 gap-px bg-border border border-border">

@@ -7,7 +7,7 @@ export default function Hero() {
   return (
     <section
       id="hero"
-      className="relative min-h-screen flex flex-col justify-center px-12 pt-32 pb-20 border-b border-border"
+      className="relative min-h-screen flex flex-col justify-center sm:px-12 px-6 pt-32 pb-20 border-b border-border"
     >
       {/* Eyebrow */}
       <motion.div

@@ -4,7 +4,10 @@ import FadeUp from "@/app/components/ui/FadeUp";
 
 export default function Experience() {
   return (
-    <section id="experience" className="px-12 py-24 border-b border-border">
+    <section
+      id="experience"
+      className="sm:px-12 px-6 py-24 border-b border-border"
+    >
       <SectionHeader num="02" title="Experience" />
 
       <div className="flex flex-col">
