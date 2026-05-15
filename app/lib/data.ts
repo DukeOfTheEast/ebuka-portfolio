@@ -7,7 +7,7 @@ export const siteData = {
   bio: "4+ years turning complex UI/UX designs into fast, cross-browser compatible web applications. Specialized in React, Next.js, and TypeScript — with a passion for clean code and outstanding user experience.",
   email: "ukachukwu.ebuka1999@gmail.com",
   phone: "+234 802 122 6974",
-  linkedin: "https://linkedin.com/in/ukachukwu-ebuka",
+  linkedin: "https://www.linkedin.com/in/ebuka-ukachukwu-660716190/",
   linkedinHandle: "in/ukachukwu-ebuka",
   github: "https://github.com/DukeOfTheEast",
   githubHandle: "DukeOfTheEast",
